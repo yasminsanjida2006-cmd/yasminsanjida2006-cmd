@@ -1,4 +1,4 @@
-# Hi, I'm Sana! 👋
+# Hi, I'm Sanjida Yasmin ! 👋
 
 ### 🐍 Aspiring Python Developer | BCA Student
 
