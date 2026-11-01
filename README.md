@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Sana! 👋
 
-<!--
-**yasminsanjida2006-cmd/yasminsanjida2006-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Aspiring Python Developer | BCA Student
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a BCA student passionate about programming, software development and learning new technologies.
+
+### 💻 Technical Skills
+
+* Python
+* C Programming
+* HTML & CSS
+* SQL
+* Git & GitHub
+
+### 📚 Currently Learning
+
+* Python Development
+* Object-Oriented Programming
+* Data Structures & Algorithms
+* Database Management
+
+### 🚀 My Projects
+
+* Python Calculator (Coming Soon)
+* Student Management System (Coming Soon)
+* Expense Tracker (Coming Soon)
+
+### 🎯 My Goal
+
+To become a skilled Software Developer and build useful real-world applications.
+
+### 📫 Connect With Me
+
+* GitHub: https://github.com/yasminsanjida2006-cmd
